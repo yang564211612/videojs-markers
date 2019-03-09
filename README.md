@@ -1,4 +1,6 @@
 ## Not actively maintained anymore. 
+注意：经测试 videojs-markers.js 需要退换为最新版，否则报。maskers不是一个函数
+<script src="https://cdn.bootcss.com/videojs-markers/0.7.0/videojs-markers.js"></script>
 
 Video.js Markers
 ===================
